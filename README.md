@@ -4,6 +4,6 @@
 
 Plotting them together results in these graphs.
 
-![alt text](https://github.com/Kttra/Linear-Systems-of-Equations/blob/main/1.png)
+![alt text](https://github.com/Kttra/Linear-System-of-Equations/blob/main/1.png)
 
-![alt text](https://github.com/Kttra/Linear-Systems-of-Equations/blob/main/2.png)
+![alt text](https://github.com/Kttra/Linear-System-of-Equations/blob/main/2.png
